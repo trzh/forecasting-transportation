@@ -4,3 +4,9 @@
 .Ruserdata
 
 *.Rproj
+*.docx
+*.pdf
+*.png
+
+P4/data/
+P4/network/
