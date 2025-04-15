@@ -25,3 +25,5 @@ The script for P4 is in the P4 folder, in the file P4.R.
 ### P5
 
 Examining how presence of medical conditions, suburban trip origin, and immigrant status affect how likely seniors are to make short health trips by walking using a logistic regression model.
+
+The script for P5 is in the P5 folder, in the file P5.R.
