@@ -12,7 +12,7 @@ The script for P2 is in the P2 folder, in the file P2.R.
 
 ### P3
 
-Examining how individual characteristics like race, immigration status, and level of higher education influence the frequency of trips to religious and community activities using a zero-inflated Poisson regression model.
+Examining how individual characteristics like race, immigrant status, and level of higher education influence the frequency of trips to religious and community activities using a zero-inflated Poisson regression model.
 
 The script for P3 is in the P3 folder, in the file P3.R.
 
@@ -21,3 +21,7 @@ The script for P3 is in the P3 folder, in the file P3.R.
 Applying a gravity model to understand sensitivity to travel cost for workers in goods-producing sectors and trade, transportation, and utilities sectors in Cambridge, MD.
 
 The script for P4 is in the P4 folder, in the file P4.R.
+
+### P5
+
+Examining how presence of medical conditions, suburban trip origin, and immigrant status affect how likely seniors are to make short health trips by walking using a logistic regression model.
